@@ -1,4 +1,5 @@
 # project-ddw
 My first repo
 
-I like ☕
+I like 🍨, 🍫 and 🥛. 
+I hate 🧅 and 🧄. 
